@@ -1,15 +1,11 @@
-  Hi, I’m FullStack developer From Venezuela
+I’m a developer experienced in building smart digital solutions for businesses looking to scale. 
+Whether you need a high-performance web application or want to integrate AI capabilities to automate tasks and enhance user experience, I can help.
 
-- 🌱 I am a medium computer technician, currently studying computer engineering at university.
-  
-- 👀 I’m interested in learn new technologies and master known ones to be more productive.\
+AI & Automation: Expert integration of LLMs (OpenAI, LangChain), intelligent chatbots, and data processing using Python.
 
-- I am a person who likes music and constantly learning so as not to be left behind.
+Modern Stack: Proficient in JavaScript (React/Node.js) for seamless interfaces and Python for complex backend logic and AI.
 
+Full Project Management: From initial architecture to implementing smart features and final deployment.
 
-- 📫 How to reach me
-  Gmail:
-  villarroelsaad@gmail.com
-  
-
+Regular communication is important to me, so let’s keep in touch to turn your vision into a functional reality.
 
