@@ -1,4 +1,4 @@
-  Hi, I’m FullStack developer From Venezuela, @villarroelsaad (jos) 
+  Hi, I’m FullStack developer From Venezuela
 
 - 🌱 I am a medium computer technician, currently studying computer engineering at university.
   
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me
   Gmail:
-  villarroelsaav@gmail.com
+  villarroelsaad@gmail.com
   
 
 
