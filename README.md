@@ -21,4 +21,4 @@ End-to-end development: from **initial architecture** to implementing smart feat
 Regular communication is important to me. Let’s keep in touch to turn your vision into a functional reality.
 
 - **Status:** Available for new projects 
-- **Focus:** AI Implementation | Web Scalability | Automation
+- **Focus:** AI Implementation | Web Scalability | Automation.
