@@ -4,7 +4,7 @@ I’m a developer experienced in building **smart digital solutions** for busine
 
 ---
 
-## **🛠 Core Expertise**
+## **🛠 Core**
 
 ### **🤖 AI & Automation**
 Expert integration of **LLMs (OpenAI, LangChain)**, intelligent chatbots, and advanced data processing using **Python**.
