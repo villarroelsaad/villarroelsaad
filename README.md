@@ -1,7 +1,6 @@
 # 🚀 Smart Digital Solutions | Full-Stack & AI Developer
 
 I’m a developer experienced in building **smart digital solutions** for businesses looking to scale. Whether you need a high-performance web application or want to integrate AI capabilities to automate tasks and enhance user experience, I can help.
-
 ---
 
 ## **🛠 Core Expertise**
